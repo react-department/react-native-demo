@@ -1,0 +1,33 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/Anton.ttf",
+      "sha1": "49243712633711db3b673d0b03536e0180cd7ddb"
+    },
+    {
+      "path": "src/assets/fonts/Urbanist-Bold.ttf",
+      "sha1": "be9c8ec7e958a7cc9ba701069f67e8c24dbffcaa"
+    },
+    {
+      "path": "src/assets/fonts/Urbanist-BoldItalic.ttf",
+      "sha1": "68234fe8817431ad2d0d9e9e8a4c28e249d7571f"
+    },
+    {
+      "path": "src/assets/fonts/Urbanist-Italic.ttf",
+      "sha1": "dd3a5c5750d0f6f364994c03c860f20d48e0ca1b"
+    },
+    {
+      "path": "src/assets/fonts/Urbanist-SemiBold.ttf",
+      "sha1": "933eaafe76819ad0c8a1aa7baba8abd4a4f48eaa"
+    },
+    {
+      "path": "src/assets/fonts/Urbanist-SemiBoldItalic.ttf",
+      "sha1": "2ffd81cb08668e0e17dd319f62738756b63713d3"
+    },
+    {
+      "path": "src/assets/fonts/Urbanist.ttf",
+      "sha1": "119cc4d8a61b74b6780202944c010cb0b2a5ad0e"
+    }
+  ]
+}

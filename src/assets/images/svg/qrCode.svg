@@ -1,0 +1,19 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" color="#111418">
+<path d="M9 6V9H6V6H9Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="square"/>
+<path d="M6 12H9" stroke="currentColor" stroke-width="1.5" stroke-linecap="square"/>
+<path d="M15 12V15" stroke="currentColor" stroke-width="1.5" stroke-linecap="square"/>
+<path d="M12 18H15" stroke="currentColor" stroke-width="1.5" stroke-linecap="square"/>
+<path d="M12 12.0111L12.01 12" stroke="currentColor" stroke-width="1.5" stroke-linecap="square"/>
+<path d="M18 12.0111L18.01 12" stroke="currentColor" stroke-width="1.5" stroke-linecap="square"/>
+<path d="M12 15.0111L12.01 15" stroke="currentColor" stroke-width="1.5" stroke-linecap="square"/>
+<path d="M18 15.0111L18.01 15" stroke="currentColor" stroke-width="1.5" stroke-linecap="square"/>
+<path d="M18 18.0111L18.01 18" stroke="currentColor" stroke-width="1.5" stroke-linecap="square"/>
+<path d="M12 9.01111L12.01 9" stroke="currentColor" stroke-width="1.5" stroke-linecap="square"/>
+<path d="M12 6.01111L12.01 6" stroke="currentColor" stroke-width="1.5" stroke-linecap="square"/>
+<path d="M9 15V18H6V15H9Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="square"/>
+<path d="M18 6V9H15V6H18Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="square"/>
+<path d="M18 3H21V6" stroke="currentColor" stroke-width="2" stroke-linecap="square"/>
+<path d="M18 21H21V18" stroke="currentColor" stroke-width="2" stroke-linecap="square"/>
+<path d="M6 3H3V6" stroke="currentColor" stroke-width="2" stroke-linecap="square"/>
+<path d="M6 21H3V18" stroke="currentColor" stroke-width="2" stroke-linecap="square"/>
+</svg>

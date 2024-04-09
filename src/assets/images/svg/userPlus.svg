@@ -1,0 +1,13 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" color="currentColor" xmlns="http://www.w3.org/2000/svg">
+<g id="user-plus" clip-path="url(#clip0_11863_201621)">
+<path id="Vector" d="M31.9792 42.1094V38.1823C31.9792 36.0992 31.1386 34.1015 29.6423 32.6286C28.146 31.1556 26.1165 30.3281 24.0004 30.3281H10.0374C7.92131 30.3281 5.89186 31.1556 4.39554 32.6286C2.89922 34.1015 2.05859 36.0992 2.05859 38.1823V42.1094" stroke="currentColor" stroke-width="4" stroke-linecap="square" stroke-linejoin="bevel"/>
+<path id="Vector_2" d="M17.0179 22.474C21.4245 22.474 24.9967 18.9575 24.9967 14.6198C24.9967 10.2821 21.4245 6.76562 17.0179 6.76562C12.6113 6.76562 9.03906 10.2821 9.03906 14.6198C9.03906 18.9575 12.6113 22.474 17.0179 22.474Z" stroke="currentColor" stroke-width="4" stroke-linecap="square" stroke-linejoin="bevel"/>
+<path id="Vector_3" d="M39.957 16.5833V28.3646" stroke="currentColor" stroke-width="4" stroke-linecap="square" stroke-linejoin="bevel"/>
+<path id="Vector_4" d="M45.9409 22.474H33.9727" stroke="currentColor" stroke-width="4" stroke-linecap="square" stroke-linejoin="bevel"/>
+</g>
+<defs>
+<clipPath id="clip0_11863_201621">
+<rect width="47.873" height="47.125" fill="white" transform="translate(0.0625 0.875)"/>
+</clipPath>
+</defs>
+</svg>
